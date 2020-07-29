@@ -18,21 +18,21 @@ class Destination {
 List<Activity> activies = [
   Activity(
       imageUrl: 'assets/images/cafe.jpg',
-      name: 'A nice coffee',
+      name: 'Local Coffee Shop Visit',
       type: 'Cafe',
       startTimes: ['9:00 am', '11:00 pm'],
-      rating: 5,
+      rating: 4,
       price: 5),
   Activity(
       imageUrl: 'assets/images/jogging.jpg',
-      name: 'A nice run',
+      name: 'Walking at City Center',
       type: 'Outdoor',
       startTimes: ['9:00 am', '9:00 pm'],
-      rating: 5,
+      rating: 3,
       price: 1),
   Activity(
       imageUrl: 'assets/images/theater.jpg',
-      name: 'A nice play',
+      name: 'A Play in the Grand Theater',
       type: 'Culture',
       startTimes: ['11:00 am', '8:00 pm'],
       rating: 5,

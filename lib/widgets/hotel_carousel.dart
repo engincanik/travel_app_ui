@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:travel_app_ui/models/destination_model.dart';
 import 'package:travel_app_ui/models/hotel_model.dart';
 
 class HotelCarousel extends StatelessWidget {
@@ -13,7 +12,7 @@ class HotelCarousel extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text(
-                'Top Destinations',
+                'Exclusive Hotels',
                 style: TextStyle(
                     fontSize: 22.0,
                     fontWeight: FontWeight.bold,
