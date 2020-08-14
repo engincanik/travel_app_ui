@@ -47,7 +47,7 @@ List<Destination> destinations = [
       description: 'A fine place to visit in Eastern Europe',
       activities: activies),
   Destination(
-      imageUrl: 'assets/images/florence.jpg',
+      imageUrl: 'assets/images/florence1.jpg',
       city: 'Florence',
       country: 'Italy',
       description: 'A fine place to visit in Europe',
@@ -59,7 +59,7 @@ List<Destination> destinations = [
       description: 'A fine place to visit in Europe',
       activities: activies),
   Destination(
-      imageUrl: 'assets/images/valencia.jpg',
+      imageUrl: 'assets/images/valencia1.jpg',
       city: 'Valencia',
       country: 'Spain',
       description: 'A fine place to visit in Europe',
